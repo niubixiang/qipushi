@@ -1,0 +1,82 @@
+// 用户管理
+.table-wrapped{
+		padding:8px;
+		height: calc(100vh - 101px);
+		background: #f5f5f5;
+		display:flex;
+		flex-direction: column;
+		justify-content: space-between;
+		.table-top{
+			.table-header{
+				padding:0 24px;
+				display:flex;
+				justify-content: space-between;
+				align-items: center;
+				height:48px;
+				background: #fff;
+				.left-wrapped{
+					display: flex;
+					.search-wrapped{
+						margin-right: 24px;
+					}
+					.select-wrapped {
+					        flex-grow: 1; // 允许下拉框扩展
+					        min-width: 150px; // 可以设置最小宽度以保证不被压缩
+					    }
+				}
+				.el-input__wrapper{
+					height: 32px;
+					padding: 0 15px;
+				}
+			}
+		}
+		.table-footer{
+			display:flex;
+			justify-content: flex-end;
+		}
+	}
+	
+	
+	// 公共模块样式外壳
+	.module-common-wrapped{
+		padding:8px;
+		background:#f5f5f5;
+		height:calc(100vh - 101px);
+		// 公共模块样式内容
+		.module-commmon-content{
+			padding:0 10px;
+			height:100%;
+			background: #fff;
+			// 分页内容
+			.pane-content{
+				display:flex;
+				flex-direction: column;
+				justify-content: space-between;
+				height:calc(100vh - 166px);
+				background: #fff;
+				.pane-top{
+					.module-commmon-header{
+						padding:2px 0;
+						display:flex;
+						align-items: center;
+						justify-content: space-between;
+						.search-wrapped{
+							display: flex;
+						}
+					}
+					.module-commmon-table{
+						min-height: 10px;
+						margin-bottom: 8px;
+						background: #fff;
+					}
+				}
+				// 底部分页
+				.table-footer{
+					display:flex;
+					justify-content: flex-end;
+					background: #fff;
+				}
+			}
+		}
+	}
+	
