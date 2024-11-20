@@ -6,6 +6,8 @@
 #### 功能模块&主要截图
 1、登录模块
 ![输入图片说明](%E7%99%BB%E5%BD%95.jpg)
+![image](https://github.com/user-attachments/assets/d7971419-2aa0-4c29-af28-d5860b542029)
+
 2、首页模块
 ![输入图片说明](%E9%A6%96%E9%A1%B5.jpg)
 3、系统概况
