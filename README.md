@@ -5,17 +5,14 @@
 
 #### 功能模块&主要截图
 1、登录模块
-![输入图片说明](%E7%99%BB%E5%BD%95.jpg)
-![image](https://github.com/user-attachments/assets/d7971419-2aa0-4c29-af28-d5860b542029)
-
+![image](https://github.com/user-attachments/assets/722045e2-470f-4d68-9699-26505a49e7ac)
 2、首页模块
-![输入图片说明](%E9%A6%96%E9%A1%B5.jpg)
+![image](https://github.com/user-attachments/assets/6ac817a4-d6c5-4e69-ac4f-76d97e4d67db)
 3、系统概况
-![输入图片说明](%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%A7%88.jpg)
+![image](https://github.com/user-attachments/assets/2a9e384a-49f2-46d8-9976-04c5f797b773)
 4、用户管理-产品管理员
-![输入图片说明](%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86-%E4%BA%A7%E5%93%81%E7%AE%A1%E7%90%86.jpg)
+![image](https://github.com/user-attachments/assets/1a51a3d6-115b-497f-ad64-ff0179b03ca9)
 5、用户管理-用户管理员
-![输入图片说明](%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86-%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.jpg)
 6、用户管理-消息管理员
 ![输入图片说明](%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86-%E6%B6%88%E6%81%AF%E7%AE%A1%E7%90%86.jpg)
 7、用户管理-用户列表
